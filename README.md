@@ -11,7 +11,7 @@ If you want to run it on your local system, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/Koya-Madhusudhana-Rao/AuctionSphereX.git
+    git clone https://github.com/tarunganesh2004/Auction-SphereX-MERN.git
     ```
 
 2. **Install Dependencies:**
